@@ -10,7 +10,7 @@ A simple **console-based banking application** built using **Java Object-Oriente
 ## 📁 Project Structure
 
 bank-application-main/            
-├── src/com/youtube/bank/            
+├── src/com/BankingApplication/                      
 │ ├── entity/      
 │ │ ├── User.java        
 │ │ └── Transaction.java             
@@ -18,7 +18,7 @@ bank-application-main/
 │ │ └── UserRepository.java        
 │ ├── service/      
 │ │ └── UserService.java        
-│ └── Main.java     
+│ └── App.java     
 ## 🚀 Features
 
 - ✅ Create a new bank account
