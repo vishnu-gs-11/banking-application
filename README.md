@@ -11,14 +11,14 @@ A simple **console-based banking application** built using **Java Object-Oriente
 
 bank-application-main/
 ├── src/com/youtube/bank/
-│ ├── entity/
-│ │ ├── User.java
-│ │ └── Transaction.java
-│ ├── repository/
-│ │ └── UserRepository.java
-│ ├── service/
-│ │ └── UserService.java
-│ └── Main.java
+│ ├── entity/      
+│ │ ├── User.java        
+│ │ └── Transaction.java             
+│ ├── repository/        
+│ │ └── UserRepository.java        
+│ ├── service/      
+│ │ └── UserService.java        
+│ └── Main.java     
 ## 🚀 Features
 
 - ✅ Create a new bank account
