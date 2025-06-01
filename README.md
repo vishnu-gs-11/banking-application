@@ -9,8 +9,8 @@ A simple **console-based banking application** built using **Java Object-Oriente
 
 ## 📁 Project Structure
 
-bank-application-main/
-├── src/com/youtube/bank/
+bank-application-main/            
+├── src/com/youtube/bank/            
 │ ├── entity/      
 │ │ ├── User.java        
 │ │ └── Transaction.java             
